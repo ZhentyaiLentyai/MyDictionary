@@ -1,0 +1,9 @@
+Overall: 
+- All 2 (simple tree and btree) implementation should be same and contains only dictionary related classes, project configuration should library not the console application, you may implement only neccessary methods of IDictionary, and leave specific one as not implemented
+- Also please configure git ignore to avoid commit binaries, they should be build on client side https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/#:~:text=gitignore%20file%20is%20a%20text,can%20also%20create%20a%20global%20.
+- There is no need to console interface at all so main/menu/programs.cs are redudant if you really wont to keep it, just create additional project Console UI and use libraries as areference
+- All 3dparty (not a framework libraries) should be referenced via nuget (it's a large repository of third party libraries) integrated in visual studio, so it's easy to replace all references/ like banchmark library
+https://docs.microsoft.com/ru-ru/nuget/quickstart/install-and-use-a-package-in-visual-studio
+- All dll/exe/pdb files should be removed, even references and replaced with nuget reference ( check previous comment), as i said they easily may be build on client side  
+
+- Benchmark class should be unified and initilized with one of 3 IDictionary implementations

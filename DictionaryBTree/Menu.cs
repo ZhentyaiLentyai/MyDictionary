@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DictionaryBTree
 {
-    public class MainMenu
+    public class MainMenu // should be moved somewhere
     {
         public static void Menu(BTree tree)
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DictionaryBTree
 {
-    public class BTree
+    public class BTree : IDictionary<TKey,Tvalue>
     {
         int t;
         BTreeNode root;

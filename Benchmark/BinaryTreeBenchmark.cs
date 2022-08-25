@@ -8,7 +8,7 @@ namespace Benchmark
 {
     [RankColumn]
     [MValueColumn]
-    public class BinaryTreeBenchmark
+    public class BinaryTreeBenchmark // should be generic and initialized with on of 3 IDictionary implementation (Tree/Btree/original .net framework dictionary)
     {
         private const int key = 1;
         private readonly DataBase data = new DataBase();

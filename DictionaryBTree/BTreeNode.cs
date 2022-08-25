@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace DictionaryBTree
 {
-    public class BTreeNode
+    public class BTreeNode<int,TValue> // values must be generic, to convert input key value of Btree you may use HashCode just create nodes using key value hash code
     {
-        public bool leaf;
+        public bool leaf; // all public fields in all classes should be Properties https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/classes-and-structs/properties with private set if possible 
         public int n;
         int t;
         public int[] keys;

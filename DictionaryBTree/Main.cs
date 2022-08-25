@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DictionaryBTree
 {
-    internal class Program
+    internal class Program // should be moved somewhere, current project should be library and should contains only Btree and btreeNode classes
     {
         static void Main(string[] args)
         {

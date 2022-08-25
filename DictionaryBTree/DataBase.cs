@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DictionaryBTree
 {
-    public class DataBase
+    public class DataBase // should be moved to some other project 
     {
         public BTree LoadDataBase(int n)
         {

@@ -1,20 +1,37 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using DictionaryLib;
+using DictionaryBTreeLib;
+using DictionaryBinaryTreeLib;
 
-namespace DictionaryTest
+namespace Main
 {
-    internal class Program
+    internal class MainProgram
     {
         static void Main(string[] args)
         {
-            Dictionary<int, string> numbers = new Dictionary<int, string>();
             int n = 100;
-            numbers = ProgramDictionary.DataDictionary(n);
+            int[] keys = DataBase.DataBaseLoading(n);
 
-            MainMenu.Menu(numbers);
+            int choice = Convert.ToInt32(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                    Dictionary<int, string> numbers = DataBase.DictionaryLoading(keys);
+                    Dictionary.Search(numbers);
+                    break;
+                case 2:
+                    BTree<int,string> BTree = DataBase.BTreeLoading(keys);
+                    BTree.Search(10);
+                    break;
+                case 3:
+                    BinaryTree<int, string> BinaryTree = DataBase.BinaryTreeLoading(keys);
+                    BinaryTree.Search(10);
+                    break;
+
+                default:
+                    break;
+            }
         }
     }
 }

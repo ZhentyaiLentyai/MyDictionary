@@ -1,0 +1,5 @@
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Release\netcoreapp3.1\DictionaryBTreeLib.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Release\netcoreapp3.1\DictionaryBTreeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Release\netcoreapp3.1\DictionaryBTreeLib.AssemblyInfoInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Release\netcoreapp3.1\DictionaryBTreeLib.AssemblyInfo.cs
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Release\netcoreapp3.1\DictionaryBTreeLib.csproj.CoreCompileInputs.cache

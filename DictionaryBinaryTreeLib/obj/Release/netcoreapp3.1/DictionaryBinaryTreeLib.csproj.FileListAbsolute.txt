@@ -1,0 +1,5 @@
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Release\netcoreapp3.1\DictionaryBinaryTreeLib.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Release\netcoreapp3.1\DictionaryBinaryTreeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Release\netcoreapp3.1\DictionaryBinaryTreeLib.AssemblyInfoInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Release\netcoreapp3.1\DictionaryBinaryTreeLib.AssemblyInfo.cs
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Release\netcoreapp3.1\DictionaryBinaryTreeLib.csproj.CoreCompileInputs.cache

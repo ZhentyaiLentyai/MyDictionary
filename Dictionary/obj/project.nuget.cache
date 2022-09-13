@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zSDdCgR5+uR9M41JwJkIBiChyBlqN9NwarhzdgL/pQM/h2GcryfDLHk6MnsTlaDZLKSmsmnRgHycua+hHnVjHg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ProjectMyDictionary\\Dictionary\\Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zheka\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zheka\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.4.336902\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.4.336902.nupkg.sha512",
+    "C:\\Users\\zheka\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

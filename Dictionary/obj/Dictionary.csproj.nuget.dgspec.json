@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\ProjectMyDictionary\\Dictionary\\Dictionary.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\ProjectMyDictionary\\DictionaryBinaryTreeLib\\DictionaryBinaryTreeLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\ProjectMyDictionary\\DictionaryBinaryTreeLib\\DictionaryBinaryTreeLib.csproj",
+        "projectName": "DictionaryBinaryTreeLib",
+        "projectPath": "D:\\C#\\ProjectMyDictionary\\DictionaryBinaryTreeLib\\DictionaryBinaryTreeLib.csproj",
+        "packagesPath": "C:\\Users\\zheka\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\ProjectMyDictionary\\DictionaryBinaryTreeLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zheka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\ProjectMyDictionary\\DictionaryBTreeLib\\DictionaryBTreeLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\ProjectMyDictionary\\DictionaryBTreeLib\\DictionaryBTreeLib.csproj",
+        "projectName": "DictionaryBTreeLib",
+        "projectPath": "D:\\C#\\ProjectMyDictionary\\DictionaryBTreeLib\\DictionaryBTreeLib.csproj",
+        "packagesPath": "C:\\Users\\zheka\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\ProjectMyDictionary\\DictionaryBTreeLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zheka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\ProjectMyDictionary\\DictionaryLib\\DictionaryLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\ProjectMyDictionary\\DictionaryLib\\DictionaryLib.csproj",
+        "projectName": "DictionaryLib",
+        "projectPath": "D:\\C#\\ProjectMyDictionary\\DictionaryLib\\DictionaryLib.csproj",
+        "packagesPath": "C:\\Users\\zheka\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\ProjectMyDictionary\\DictionaryLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zheka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\ProjectMyDictionary\\Dictionary\\Dictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\ProjectMyDictionary\\Dictionary\\Dictionary.csproj",
+        "projectName": "Dictionary",
+        "projectPath": "D:\\C#\\ProjectMyDictionary\\Dictionary\\Dictionary.csproj",
+        "packagesPath": "C:\\Users\\zheka\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\ProjectMyDictionary\\Dictionary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zheka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\ProjectMyDictionary\\DictionaryBinaryTreeLib\\DictionaryBinaryTreeLib.csproj": {
+                "projectPath": "D:\\C#\\ProjectMyDictionary\\DictionaryBinaryTreeLib\\DictionaryBinaryTreeLib.csproj"
+              },
+              "D:\\C#\\ProjectMyDictionary\\DictionaryBTreeLib\\DictionaryBTreeLib.csproj": {
+                "projectPath": "D:\\C#\\ProjectMyDictionary\\DictionaryBTreeLib\\DictionaryBTreeLib.csproj"
+              },
+              "D:\\C#\\ProjectMyDictionary\\DictionaryLib\\DictionaryLib.csproj": {
+                "projectPath": "D:\\C#\\ProjectMyDictionary\\DictionaryLib\\DictionaryLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.336902, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,8 +1,0 @@
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\bin\Debug\DictionaryBinaryTree.exe.config
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\bin\Debug\DictionaryBinaryTree.exe
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\bin\Debug\DictionaryBinaryTree.pdb
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\obj\Debug\DictionaryBinaryTree.csproj.AssemblyReference.cache
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\obj\Debug\DictionaryBinaryTree.csproj.SuggestedBindingRedirects.cache
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\obj\Debug\DictionaryBinaryTree.csproj.CoreCompileInputs.cache
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\obj\Debug\DictionaryBinaryTree.exe
-D:\C#\ProjectMyDictionary\DictionaryBinaryTree\obj\Debug\DictionaryBinaryTree.pdb

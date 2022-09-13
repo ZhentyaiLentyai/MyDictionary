@@ -1,0 +1,8 @@
+D:\C#\ProjectMyDictionary\Dictionary\bin\Release\Dictionary.exe.config
+D:\C#\ProjectMyDictionary\Dictionary\bin\Release\Dictionary.exe
+D:\C#\ProjectMyDictionary\Dictionary\bin\Release\Dictionary.pdb
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\Dictionary.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\Dictionary.csproj.SuggestedBindingRedirects.cache
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\Dictionary.csproj.CoreCompileInputs.cache
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\Dictionary.exe
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\Dictionary.pdb

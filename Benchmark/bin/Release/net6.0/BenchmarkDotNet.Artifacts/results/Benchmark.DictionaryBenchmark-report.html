@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Benchmark.DictionaryBenchmark-20220901-132843</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19043.1889 (21H1/May2021Update)
+AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx, 1 CPU, 8 logical and 4 physical cores
+.NET SDK=6.0.400
+  [Host]     : .NET 6.0.8 (6.0.822.36306), X64 RyuJIT
+  DefaultJob : .NET 6.0.8 (6.0.822.36306), X64 RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>             Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>MValue</th><th>Rank</th>
+</tr>
+</thead><tbody><tr><td>DictionaryTestSearch100</td><td>8.364 ns</td><td>0.1655 ns</td><td>0.1382 ns</td><td>2.000</td><td>1</td>
+</tr><tr><td>DictionaryTestSearch1000</td><td>9.023 ns</td><td>0.1967 ns</td><td>0.1840 ns</td><td>2.000</td><td>2</td>
+</tr><tr><td>DictionaryTestSearch10000</td><td>8.461 ns</td><td>0.1801 ns</td><td>0.1597 ns</td><td>2.000</td><td>1</td>
+</tr></tbody></table>
+</body>
+</html>

@@ -1,0 +1,3 @@
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\netcoreapp3.1\Main.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\netcoreapp3.1\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectMyDictionary\Dictionary\obj\Release\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache

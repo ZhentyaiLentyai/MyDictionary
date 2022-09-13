@@ -1,0 +1,11 @@
+D:\C#\ProjectMyDictionary\Dictionary\bin\Debug\net6.0\Dictionary.dll.config
+D:\C#\ProjectMyDictionary\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+D:\C#\ProjectMyDictionary\Dictionary\bin\Debug\net6.0\Dictionary.dll
+D:\C#\ProjectMyDictionary\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+D:\C#\ProjectMyDictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectMyDictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\C#\ProjectMyDictionary\Dictionary\obj\Debug\net6.0\Dictionary.dll
+D:\C#\ProjectMyDictionary\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+D:\C#\ProjectMyDictionary\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+D:\C#\ProjectMyDictionary\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll

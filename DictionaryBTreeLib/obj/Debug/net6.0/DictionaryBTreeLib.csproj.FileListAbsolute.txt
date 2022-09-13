@@ -1,0 +1,12 @@
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\bin\Debug\net6.0\DictionaryBTreeLib.deps.json
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\bin\Debug\net6.0\DictionaryBTreeLib.dll
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\bin\Debug\net6.0\DictionaryBTreeLib.pdb
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\DictionaryBTreeLib.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\DictionaryBTreeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\DictionaryBTreeLib.AssemblyInfoInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\DictionaryBTreeLib.AssemblyInfo.cs
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\DictionaryBTreeLib.csproj.CoreCompileInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\DictionaryBTreeLib.dll
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\refint\DictionaryBTreeLib.dll
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\DictionaryBTreeLib.pdb
+D:\C#\ProjectMyDictionary\DictionaryBTreeLib\obj\Debug\net6.0\ref\DictionaryBTreeLib.dll

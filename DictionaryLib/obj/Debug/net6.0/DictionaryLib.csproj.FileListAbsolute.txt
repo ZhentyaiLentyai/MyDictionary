@@ -1,0 +1,12 @@
+D:\C#\ProjectMyDictionary\DictionaryLib\bin\Debug\net6.0\DictionaryLib.deps.json
+D:\C#\ProjectMyDictionary\DictionaryLib\bin\Debug\net6.0\DictionaryLib.dll
+D:\C#\ProjectMyDictionary\DictionaryLib\bin\Debug\net6.0\DictionaryLib.pdb
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\DictionaryLib.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\DictionaryLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\DictionaryLib.AssemblyInfoInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\DictionaryLib.AssemblyInfo.cs
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\DictionaryLib.csproj.CoreCompileInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\DictionaryLib.dll
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\refint\DictionaryLib.dll
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\DictionaryLib.pdb
+D:\C#\ProjectMyDictionary\DictionaryLib\obj\Debug\net6.0\ref\DictionaryLib.dll

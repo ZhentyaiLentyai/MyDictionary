@@ -1,0 +1,12 @@
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\bin\Debug\net6.0\DictionaryBinaryTreeLib.deps.json
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\bin\Debug\net6.0\DictionaryBinaryTreeLib.dll
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\bin\Debug\net6.0\DictionaryBinaryTreeLib.pdb
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\DictionaryBinaryTreeLib.csproj.AssemblyReference.cache
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\DictionaryBinaryTreeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\DictionaryBinaryTreeLib.AssemblyInfoInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\DictionaryBinaryTreeLib.AssemblyInfo.cs
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\DictionaryBinaryTreeLib.csproj.CoreCompileInputs.cache
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\DictionaryBinaryTreeLib.dll
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\refint\DictionaryBinaryTreeLib.dll
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\DictionaryBinaryTreeLib.pdb
+D:\C#\ProjectMyDictionary\DictionaryBinaryTreeLib\obj\Debug\net6.0\ref\DictionaryBinaryTreeLib.dll
